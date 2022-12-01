@@ -1,0 +1,23 @@
+.input-container {
+  width: 35%;
+  padding: 0.5rem;
+  margin: 0.6rem auto;
+  position: absolute;
+  left: 35%;
+  z-index: 99;
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+}
+
+.input-wrapper {
+  position: relative;
+}
+
+.map-container {
+  width: 100%;
+  height: 100vh;
+}
